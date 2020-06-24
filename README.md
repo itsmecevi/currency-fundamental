@@ -142,8 +142,12 @@ Neraca perdagangan surplus artinya lebih banyak nilai ekspor daripada impor, sed
 
 Efek dari Surplus dan atau Defisit dari neraca perdagangan misalnya USA adalah berbanding lurus dengan nilai mata uangnya, yaitu dalam hal ini USD.
 
-      Trade Deficit => USD ↓
-      Trade Surplus -> USD ↑
+      Trade Deficit (ekspor<impor) => USD ↓
+      Trade Surplus (ekspor>impor) => USD ↑
+
+Hal tersebut berlaku tidak hanya di negara USA, tetapi juga berlaku di negara-negara lain dan mata uangnya.
+
+### 3. Pasar Properti
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
