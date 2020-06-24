@@ -96,7 +96,14 @@
 
 * Kalender ekonomi adalah sebuah jadwal untuk trader mengetahui berita fundamental yang akan muncul yang mungkin akan mempengaruhi pergerakan pasar finansial dan tentunya saja akan sangat berpengaruh ke analisa fundamental
 * Dua hal inti dalam kalender ekonomi adalah kalender ekonomi itu sendiri, dan efek terhadap mata uang yang mana, bisa dipelajari di sini: https://www.forexfactory.com/calendar
-* 
+* Apa saja data ekonomi dan berita yang bisa berpengaruh terhadap pergerakan pasar?
+
+1. Inflasi dan Harga (Inflation and Price)
+2. Neraca Perdagangan (Foreign Trades)
+3. Pasar Properti (Housing and General Construction)
+4. Pasar Tenaga Kerja (Employment)
+5. Nilai Barang dan Jasa yang diproduksi (National Output)
+6. Aktivitas Belanja Konsumen (Consumer Activities)
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
