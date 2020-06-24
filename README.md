@@ -51,7 +51,7 @@
      * Rata-rata inflasi yang dilakukan bank sentral adalah 2%
      
      
-## Penggerak pasar jangka panjang
+## Faktor Jangka Panjang
 
 * Pertumbuhan ekonomi:
    * Salah satu indikator signifikannya adalah GDP (Gross Domestic Product)
