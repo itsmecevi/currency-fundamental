@@ -1,3 +1,15 @@
+## Apa itu Fundamental Analysis 
+
+* Fundamental ekonomi mencakup koleksi dari informasi dalam bentuk informasi ekonomi, politik, atau lingkungan, juga data-data terkait pengumuman dan berita-berita
+* Analisis fundamental adalah sebuah studi dan penggunaan dari data-data tersebut di atas sebagai faktor untuk memprediksi kecenderungan pergerakan harga mata uang dan komoditi
+* Faktor ekonomi tersebut secara makro (seperti pertumbuhan ekonomi, inflasi, dan angka pengangguran) berefek kepada kondisi perdagangan mata uang (pergerakan harga)
+* Data fundamental terbentuk dalam beberapa bentuk, antara lain:
+    * Data the FED (Federal Reserve System)-> bank sentral Amerika Serikat
+    * Kebijakan Moneter suatu negara
+    * Pendapat ahli keuangan dan makro ekonomi
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
