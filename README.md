@@ -107,7 +107,8 @@
 
 _______
 
-1. Inflasi dan Harga
+### 1. Inflasi dan Harga:
+
 Definisi inflasi adalalah penurunan nilai mata uang. Kita bisa merasakan jika harga sebuah pensil jaman kita kecil dengan harga pensil sekarang sangat jauh berbeda.
 
 Perlu diingat bahwa inflasi bukanlah tinggi rendahnya harga pensil tersebut, tetapi inflasi adalah proses dari suatu peristiwa yang disebabkan oleh beberapa faktor, diantaranya adalah sebagai berikut :
