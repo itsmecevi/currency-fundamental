@@ -39,7 +39,24 @@
      
      -Pengaturan diskon untuk perbankan swasta
      
+    
+    
+ * Tipe kebijakan moneter:
+     * Hawkish (gagak, lebih agresif)-> menaikan tingkat suku bunga 
+     * Dovish (merpati, lebih tenang)-> menurunkan tingkat suku bunga
+     * Contractionary-> melambankan tingkat suku bungal bahwa moneter mengatur jumlah pergerakan uang yang beredar sedangkan fiskal mengatur hal-hal tentang pajak
+     * Pemerintahan nasional membuat suatu kebijakan moneter untuk mencapi tujuan ekonomi tertentu
+     * Kekuasaan pengaturan moneter dipegang oleh bank sentral dengan instrumen pengaturan sbb:
      
+     -Suku bunga
+     
+     -Inflasi
+     
+     -Jumlah tambahan uang yang beredar (supply)
+     
+     -Jumlah cadangan devisa
+     
+     -Pengaturan diskon untuk perbankan swasta
      
      
      
