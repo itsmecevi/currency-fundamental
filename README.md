@@ -13,26 +13,26 @@
 ## 3 faktor utama penggerak pasar keuangan
 
 * Suku bunga:
-      * Suku bunga di suatu negara dalam % dan per tahun merupakan pondasi utama untuk menjaga kestabilan harga (inflasi)
-      * Faktor yang paling berpengaruh yang disebabkan oleh suku bunga adalah inflasi atau kestabilan harga
-      * Ketika suku bunga dua negara bergerak berlawanan, maka akan ada pergerakan pasar mata uang yang besar di kedua negara tersebut
-      * Suku bunga real:= suku bunga nominal-nilai inflasi
+     * Suku bunga di suatu negara dalam % dan per tahun merupakan pondasi utama untuk menjaga kestabilan harga (inflasi)
+     * Faktor yang paling berpengaruh yang disebabkan oleh suku bunga adalah inflasi atau kestabilan harga
+     * Ketika suku bunga dua negara bergerak berlawanan, maka akan ada pergerakan pasar mata uang yang besar di kedua negara tersebut
+     * Suku bunga real:= suku bunga nominal-nilai inflasi
       
       
 * Inflasi: 
-      * Inflasi adalah nilai suatu mata uang (kestabilan harga)
-      * Inflasi berbanding terbalik dengan suku bunga
+     * Inflasi adalah nilai suatu mata uang (kestabilan harga)
+     * Inflasi berbanding terbalik dengan suku bunga
 
       
 * Kebijakan moneter:
      * Perbedaan moneter dan fiskal bahwa moneter mengatur jumlah pergerakan uang yang beredar sedangkan fiskal mengatur hal-hal tentang pajak
      * Pemerintahan nasional membuat suatu kebijakan moneter untuk mencapi tujuan ekonomi tertentu
      * Kekuasaan pengaturan moneter dipegang oleh bank sentral dengan instrumen pengaturan sbb:
-               * Suku bunga
-               * Inflasi
-               * Jumlah tambahan uang yang beredar (supply)
-               * Jumlah cadangan devisa
-               * Pengaturan diskon untuk perbankan swasta
+      * Suku bunga
+      * Inflasi
+      * Jumlah tambahan uang yang beredar (supply)
+      * Jumlah cadangan devisa
+      * Pengaturan diskon untuk perbankan swasta
 
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
