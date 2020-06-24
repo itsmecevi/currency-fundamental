@@ -30,9 +30,13 @@
      * Kekuasaan pengaturan moneter dipegang oleh bank sentral dengan instrumen pengaturan sbb:
      
      -Suku bunga
+     
      -Inflasi
+     
      -Jumlah tambahan uang yang beredar (supply)
+     
      -Jumlah cadangan devisa
+     
      -Pengaturan diskon untuk perbankan swasta
      
      
