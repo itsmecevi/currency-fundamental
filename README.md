@@ -59,7 +59,17 @@
    * Jika perusahaan swasta bertumbuh dengan mendapatkan uang dari pembelanjaan masyarakat, maka swasta akan membayar pajak dan tentu saja pajak akan dikelola oleh pemerintah yang akan kembali lagi ke masyarakat
    * Jika semua elemen melakukan pembelanjaan, baik itu masyarakat, lalu swasta, lalu juga pemerintah, maka pertumbuhan ekonomi akan meningkat dengan pesat
 
-* Pergerakan kapital
+* Aliran kapital:
+   * Jika penawaran atau ketersediaan tinggi (supply) untuk suatu mata uang, maka mata uang tersebut akan kehilangan value.
+   * Kapital dari asing menyukai hanya 2 hal pokok, yaitu suku bunga yang tinggi dan pertumbuhan ekonomi yang konsisten. 
+   * Jika negara tersebut mempunyai pertumbuhan pasar finansial domestik yang berkembang, itu akan lebih disukai investor asing. Jika itu terjadi aliran uang dari modal asing akan masuk, dan tentu saja uang tersebut masuk berupa mata uang asing, sehingga permintaan uang mata uang lokal akan dicari (ditukar tentunya), dan efeknya, mata uang lokal akan meningkat, dan nilainya lebih tinggi 
+   * Kondisi exspor dan impor:
+      1.	Exports > Imports = Trade Surplus = Positive (+) Trade Balance
+      2.	Imports > Exports = Trade Deficit = Negative (-) Trade Balance
+      3.	More Export-> increasing money values
+      4.	More Import-> decreasing money values
+
+   *
 
 * Potret pemerintahan sekarang dan masa depan
      
