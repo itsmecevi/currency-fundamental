@@ -121,6 +121,13 @@ Perlu diingat bahwa inflasi bukanlah tinggi rendahnya harga pensil tersebut, tet
 
 -Bahkan spekulasi dan ketidaklancaran distribusi juga bisa menjadi salah satu penyebab inflasi
 
+Ada banyak cara untuk mengukur inflasi , dua diantaranya yang paling sering digunakan adalah Consumer Price Indexs (CPI) / dan Producer Price Indexs Dalam satuan di Indonesia dua hal tersebut adalah Harga Indeks Konsumen dan Harga Indeks Produsen.
+
+         CPI : Mengukur tingkat perubahan harga barang dan jasa
+         PPI : Ukuran perubahan harga yang dibayar oleh produsen dalam berbagai tahapan produksi. Ukuran PPI tidak termasuk industri atau sektor jasa di dalamnya.
+         CPI ↑ =>Interest rates (Tingkat Suku Bunga)↑ => USD ↑ [Short-run (jangka pendek)]
+         CPI ↑ => Interest rates (Tingkat Suku Bunga)↑ => USD ↓ [Long-run (jangka panjang)]
+
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
