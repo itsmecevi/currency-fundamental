@@ -41,7 +41,6 @@
      
     
 * Tipe kebijakan moneter: 
-     
      * Hawkish (gagak, lebih agresif)-> menaikan tingkat suku bunga 
      * Dovish (merpati, lebih tenang)-> menurunkan tingkat suku bunga    
      * Contractionary-> melambatkan pertumbuhan ekonomi dengan suku bunga yang tinggi. Peminjaman uang menjadi susah dan lebih mahal, dimana mengurangi pengeluaran dan investasi baik untuk industri konsumer dan bisnis     
