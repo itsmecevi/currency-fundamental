@@ -12,19 +12,19 @@
 
 ## 3 Faktor Ekonomi
 
-* Suku bunga:
+* 1-Suku bunga:
      * Suku bunga di suatu negara dalam % dan per tahun merupakan pondasi utama untuk menjaga kestabilan harga (inflasi)
      * Faktor yang paling berpengaruh yang disebabkan oleh suku bunga adalah inflasi atau kestabilan harga
      * Ketika suku bunga dua negara bergerak berlawanan, maka akan ada pergerakan pasar mata uang yang besar di kedua negara tersebut
      * Suku bunga real:= suku bunga nominal-nilai inflasi
       
       
-* Inflasi: 
+* 2-Inflasi: 
      * Inflasi adalah nilai suatu mata uang (kestabilan harga)
      * Inflasi berbanding terbalik dengan suku bunga
 
       
-* Kebijakan moneter:
+* 3-Kebijakan moneter:
      * Perbedaan moneter dan fiskal bahwa moneter mengatur jumlah pergerakan uang yang beredar sedangkan fiskal mengatur hal-hal tentang pajak
      * Pemerintahan nasional membuat suatu kebijakan moneter untuk mencapi tujuan ekonomi tertentu
      * Kekuasaan pengaturan moneter dipegang oleh bank sentral dengan instrumen pengaturan sbb:
@@ -45,22 +45,11 @@
      * Hawkish (gagak, lebih agresif)-> menaikan tingkat suku bunga 
      * Dovish (merpati, lebih tenang)-> menurunkan tingkat suku bunga    
      * Contractionary-> melambatkan pertumbuhan ekonomi dengan suku bunga yang tinggi. Peminjaman uang menjadi susah dan lebih mahal, dimana mengurangi pengeluaran dan investasi baik untuk industri konsumer dan bisnis     
-     * Expansionary-> Meningkatkan jumlah uang yang beredar atau menurunkan tingkat suku bunga. Biaya peminjaman uang menjadi lebih rendah dan diharapkan pengeluaran dan investasi akan semakin naik
-     - Accommodative-> 
-     
-     * Pemerintahan nasional membuat suatu kebijakan moneter untuk mencapi tujuan ekonomi tertentu
-     
-     * Kekuasaan pengaturan moneter dipegang oleh bank sentral dengan instrumen pengaturan sbb:
-     
-     -Suku bunga
-     
-     -Inflasi
-     
-     -Jumlah tambahan uang yang beredar (supply)
-     
-     -Jumlah cadangan devisa
-     
-     -Pengaturan diskon untuk perbankan swasta
+     * Expansionary-> meningkatkan jumlah uang yang beredar atau menurunkan tingkat suku bunga. Biaya peminjaman uang menjadi lebih rendah dan diharapkan pengeluaran dan investasi akan semakin naik
+     * Accommodative-> meningkatkan pertumbuhan ekonomi dengan menurunkan tingkat suku bunga
+     * Tight-> meminimalisir/mengurangi inflasi dengan cara menaikan tingkat suku bunga
+     * Neutral-> tidak menaikan ekonomi dan juga tidak menurunka tingkat suku bunga
+     * Rata-rata inflasi yang dilakukan bank sentral adalah 2%
      
      
      
