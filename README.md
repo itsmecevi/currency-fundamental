@@ -10,7 +10,7 @@
 
 
 
-## 3 faktor utama penggerak pasar keuangan
+## 3 faktor ekonomi
 
 * Suku bunga:
      * Suku bunga di suatu negara dalam % dan per tahun merupakan pondasi utama untuk menjaga kestabilan harga (inflasi)
