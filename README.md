@@ -63,15 +63,15 @@
    * Jika penawaran atau ketersediaan tinggi (supply) untuk suatu mata uang, maka mata uang tersebut akan kehilangan value.
    * Kapital dari asing menyukai hanya 2 hal pokok, yaitu suku bunga yang tinggi dan pertumbuhan ekonomi yang konsisten. 
    * Jika negara tersebut mempunyai pertumbuhan pasar finansial domestik yang berkembang, itu akan lebih disukai investor asing. Jika itu terjadi aliran uang dari modal asing akan masuk, dan tentu saja uang tersebut masuk berupa mata uang asing, sehingga permintaan uang mata uang lokal akan dicari (ditukar tentunya), dan efeknya, mata uang lokal akan meningkat, dan nilainya lebih tinggi 
-   * Kondisi exspor dan impor:
-      1.	Exports > Imports = Trade Surplus = Positive (+) Trade Balance
-      2.	Imports > Exports = Trade Deficit = Negative (-) Trade Balance
-      3.	More Export-> increasing money values
-      4.	More Import-> decreasing money values
+   * Kondisi ekspor dan impor:
+      1.	Ekspor > Impor = Surplus = Neraca Positif (+)
+      2.	Imports > Exports = Trade Deficit = Nerace Negative (-)
+      3.	Lebih banyak Ekspor-> meningkatkan nilai mata uang
+      4.	Lebih banyak Impor-> menurunka nilai mata uang
 
-   *
-
-* Potret pemerintahan sekarang dan masa depan
+* Potret pemerintahan sekarang dan masa depan:
+   * Situasi pergantian kepemimpinan dan juga arah kepemimpinan suatu negara akan berpengaruh ke situasi perekonomian negara tersebut
+   * Bahkan situasi pemerintahan negara sekitar juga akan mempengaruhi kondisi perekonomian, yang jelas ujungnya adalah nilai mata uang
      
             
 
