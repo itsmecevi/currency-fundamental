@@ -10,7 +10,7 @@
 
 
 
-## 3 faktor ekonomi
+## 3 Faktor Ekonomi
 
 * Suku bunga:
      * Suku bunga di suatu negara dalam % dan per tahun merupakan pondasi utama untuk menjaga kestabilan harga (inflasi)
@@ -42,14 +42,10 @@
     
     
      * Tipe kebijakan moneter: 
-     
-     - Hawkish (gagak, lebih agresif)-> menaikan tingkat suku bunga 
-     
-     - Dovish (merpati, lebih tenang)-> menurunkan tingkat suku bunga
-     
-     - Contractionary-> melambatkan pertumbuhan ekonomi dengan suku bunga yang tinggi. Peminjaman uang menjadi susah dan lebih mahal, dimana mengurangi pengeluaran dan investasi baik untuk industri konsumer dan bisnis
-     
-     - Expansionary-> Meningkatkan jumlah uang yang beredar atau menurunkan tingkat suku bunga. Biaya peminjaman uang menjadi lebih rendah dan diharapkan pengeluaran dan investasi akan semakin naik
+              - Hawkish (gagak, lebih agresif)-> menaikan tingkat suku bunga 
+              - Dovish (merpati, lebih tenang)-> menurunkan tingkat suku bunga
+              - Contractionary-> melambatkan pertumbuhan ekonomi dengan suku bunga yang tinggi. Peminjaman uang menjadi susah dan lebih mahal, dimana mengurangi pengeluaran dan investasi baik untuk industri konsumer dan bisnis
+              - Expansionary-> Meningkatkan jumlah uang yang beredar atau menurunkan tingkat suku bunga. Biaya peminjaman uang menjadi lebih rendah dan diharapkan pengeluaran dan investasi akan semakin naik
       
      - Accommodative-> 
      
