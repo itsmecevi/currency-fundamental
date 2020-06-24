@@ -92,7 +92,7 @@
    * Kofyin.com (sumber berita-berita dari berbagai sumber terpercaya, alternatif stasiun bloomberg)
 
 
-## Kalender Ekonomi
+## Kalender Ekonomi:
 
 * Kalender ekonomi adalah sebuah jadwal untuk trader mengetahui berita fundamental yang akan muncul yang mungkin akan mempengaruhi pergerakan pasar finansial dan tentunya saja akan sangat berpengaruh ke analisa fundamental
 * Dua hal inti dalam kalender ekonomi adalah kalender ekonomi itu sendiri, dan efek terhadap mata uang yang mana, bisa dipelajari di sini: https://www.forexfactory.com/calendar
@@ -107,7 +107,7 @@
 
 _______
 
-### 1. Inflasi dan Harga:
+### 1. Inflasi dan Harga
 
 Definisi inflasi adalalah penurunan nilai mata uang. Kita bisa merasakan jika harga sebuah pensil jaman kita kecil dengan harga pensil sekarang sangat jauh berbeda.
 
