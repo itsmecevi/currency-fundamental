@@ -74,8 +74,28 @@
    * Bahkan situasi pemerintahan negara sekitar juga akan mempengaruhi kondisi perekonomian, yang jelas ujungnya adalah nilai mata uang
      
             
-## News
+## News (Berita Fundamental)
 
+* Pergerakan harga terjadi karena informasi laporan ekonomi, pidato pemimpin bank sentral, dan perubahan tingkat suku bunga
+* Sebuah berita menggerakan faktor fundamental dan faktor fundamental menggerakan nilai mata uang
+* Sumber web untuk belajar forex: babypips.com
+* Sumber berita finansial:
+   * i.	Reuters
+   * ii.	The Wall Street Journal
+   * iii.	Bloomberg
+   * iv.	MarketWatch.com
+   * v.	CNBC
+   * vi.	Bloomberg TV
+   * vii.	Fox Business
+   * viii.	MSNBC
+   * ix.	CNN
+   * Kofyin.com (sumber berita-berita dari berbagai sumber terpercaya, alternatif stasiun bloomberg)
+
+
+## Kalender Ekonomi
+
+* Kalender ekonomi adalah sebuah jadwal untuk trader mengetahui berita fundamental yang akan muncul yang mungkin akan mempengaruhi pergerakan pasar finansial dan tentunya saja akan sangat berpengaruh ke analisa fundamental
+* Dua hal inti dalam kalender ekonomi adalah kalender ekonomi itu sendiri, dan efek terhadap mata uang yang mana, bisa dipelajari di sini: https://www.forexfactory.com/calendar
 * 
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
