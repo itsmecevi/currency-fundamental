@@ -44,7 +44,9 @@
  * Tipe kebijakan moneter:
      * Hawkish (gagak, lebih agresif)-> menaikan tingkat suku bunga 
      * Dovish (merpati, lebih tenang)-> menurunkan tingkat suku bunga
-     * Contractionary-> melambankan tingkat suku bungal bahwa moneter mengatur jumlah pergerakan uang yang beredar sedangkan fiskal mengatur hal-hal tentang pajak
+     * Contractionary-> melambatkan pertumbuhan ekonomi dengan suku bunga yang tinggi. Peminjaman uang menjadi susah dan lebih mahal, dimana mengurangi pengeluaran dan investasi baik untuk industri konsumer dan bisnis
+     * Expansionary-> Meningkatkan jumlah uang yang beredar atau menurunkan tingkat suku bunga. Biaya peminjaman uang menjadi lebih rendah dan diharapkan pengeluaran dan investasi akan semakin naik
+     * Accommodative-> 
      * Pemerintahan nasional membuat suatu kebijakan moneter untuk mencapi tujuan ekonomi tertentu
      * Kekuasaan pengaturan moneter dipegang oleh bank sentral dengan instrumen pengaturan sbb:
      
