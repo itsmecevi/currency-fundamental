@@ -51,8 +51,17 @@
      * Rata-rata inflasi yang dilakukan bank sentral adalah 2%
      
      
-     
-     
+## Penggerak pasar jangka panjang
+
+* Pertumbuhan ekonomi:
+   * Salah satu indikator signifikannya adalah GDP (Gross Domestic Product)
+   * Jika ekonomi tumbuh, rakyat akan merasa tenang dan aman, maka mereka akan membelanjakan uangnya. Dan tentu saja, uang yang dikeluarkan oleh rakyat akan masuk ke pengusaha di industri tertentu
+   * Jika perusahaan swasta bertumbuh dengan mendapatkan uang dari pembelanjaan masyarakat, maka swasta akan membayar pajak dan tentu saja pajak akan dikelola oleh pemerintah yang akan kembali lagi ke masyarakat
+   * Jika semua elemen melakukan pembelanjaan, baik itu masyarakat, lalu swasta, lalu juga pemerintah, maka pertumbuhan ekonomi akan meningkat dengan pesat
+
+* Pergerakan kapital
+
+* Potret pemerintahan sekarang dan masa depan
      
             
 
