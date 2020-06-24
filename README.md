@@ -123,10 +123,10 @@ Perlu diingat bahwa inflasi bukanlah tinggi rendahnya harga pensil tersebut, tet
 
 Ada banyak cara untuk mengukur inflasi , dua diantaranya yang paling sering digunakan adalah Consumer Price Indexs (CPI) / dan Producer Price Indexs Dalam satuan di Indonesia dua hal tersebut adalah Harga Indeks Konsumen dan Harga Indeks Produsen.
 
-         CPI : Mengukur tingkat perubahan harga barang dan jasa
-         PPI : Perubahan harga yang dibayar oleh produsen dalam berbagai tahapan produksi. Ukuran PPI tidak termasuk industri atau sektor jasa di dalamnya.
-         CPI ↑ =>Interest rates (Tingkat Suku Bunga)↑ => USD ↑ [Short-run (jangka pendek)]
-         CPI ↑ => Interest rates (Tingkat Suku Bunga)↑ => USD ↓ [Long-run (jangka panjang)]
+      CPI : Mengukur tingkat perubahan harga barang dan jasa
+      PPI : Perubahan harga yang dibayar oleh produsen dalam berbagai tahapan produksi. Ukuran PPI tidak termasuk industri atau sektor jasa di dalamnya.
+      CPI ↑ =>Interest rates (Tingkat Suku Bunga)↑ => USD ↑ [Short-run (jangka pendek)]
+      CPI ↑ => Interest rates (Tingkat Suku Bunga)↑ => USD ↓ [Long-run (jangka panjang)]
          
 ### 2. Neraca Perdagangan
 
@@ -139,6 +139,11 @@ Neraca perdagangan surplus artinya lebih banyak nilai ekspor daripada impor, sed
 -Nilai tukar USD
 
 -Perbedaan tingkat inflasi
+
+Efek dari Surplus dan atau Defisit dari neraca perdagangan misalnya USA adalah berbanding lurus dengan nilai mata uangnya, yaitu dalam hal ini USD.
+
+      Trade Deficit => USD ↓
+      Trade Surplus -> USD ↑
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
