@@ -10,7 +10,16 @@
 
 
 
-## Welcome to GitHub Pages
+## 2 faktor utama penggerak pasar keuangan
+
+* Suku bunga:
+      * Faktor yang paling berpengaruh yang disebabkan oleh suku bunga adalah inflasi atau kestabilan harga
+      * Inflasi adalah nilai suatu mata uang
+      * Ketika suku bunga dua negara bergerak berlawanan, maka akan ada pergerakan pasar mata uang yang besar di kedua negara tersebut
+      * Suku bunga real:= suku bunga nominal-nilai inflasi
+      
+* Kebijakan moneter:
+
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
