@@ -74,7 +74,9 @@
    * Bahkan situasi pemerintahan negara sekitar juga akan mempengaruhi kondisi perekonomian, yang jelas ujungnya adalah nilai mata uang
      
             
+## News
 
+* 
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
