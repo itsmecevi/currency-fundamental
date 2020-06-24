@@ -108,6 +108,17 @@
 _______
 
 1. Inflasi dan Harga
+Definisi inflasi adalalah penurunan nilai mata uang. Kita bisa merasakan jika harga sebuah pensil jaman kita kecil dengan harga pensil sekarang sangat jauh berbeda.
+
+Perlu diingat bahwa inflasi bukanlah tinggi rendahnya harga pensil tersebut, tetapi inflasi adalah proses dari suatu peristiwa yang disebabkan oleh beberapa faktor, diantaranya adalah sebagai berikut :
+
+-Konsumsi masyarakat yang meningkat
+
+-Peningkatan permintaan atas suatu barang dan atau jasa
+
+-Peningkatan biaya produksi, peningkatan likuiditas di pasar baik pasar real maupun derivatif
+
+-Bahkan spekulasi dan ketidaklancaran distribusi juga bisa menjadi salah satu penyebab inflasi
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
