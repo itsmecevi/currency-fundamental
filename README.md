@@ -209,6 +209,21 @@ C. Order Barang Tahan Lama (Durable Goods Order) : ukuran tingkat order untuk ba
 D. Produksi Industri (Industrial Production) : ukuran produksi dari industri manufacturing.
 
       Produksi Industri (Industrial production) ↑ => Ekonomi ↑ => USD ↑
+      
+E. ISM Manufacturing : laporan bulanan pertama keadaan ekonomi pada sektor manufaktur non jasa dan non pertanian.
+
+      ISM > 50 => ekspansi
+      ISM < 50 => resesi
+      ISM = 50 => tidak ada perkembangan
+      ISM ↑ -> ekonomi ↑ -> USD ↑
+      
+F. ISM Non Manufacturing : laporan bulanan pertama keadaan ekonomi pada sektor jasa non manufaktur dan non pertanian.
+
+      ISM ↑ => ekonomi ↑ => USD ↑
+      
+G. CHICAGO PMI ( Purchasing Managers’ Index) : pengukuran aktifitas bisnis di daerah Midwest yang merupakan pusat industri Amerika Serikat.
+
+      PMI ↑ => USD ↑
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
