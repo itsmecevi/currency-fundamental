@@ -257,6 +257,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Market Reaction
 
+* Hasil dari reaksi market terhadap laporan atau news yang ada bisa saja tidak sesuai dengan ekspektasi. Karena data dan reaksi adalah dua hal yang berbeda
+* Reaksi dari market disebut dengan konsensus
+
 
 ### Markdown
 
