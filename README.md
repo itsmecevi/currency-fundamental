@@ -255,6 +255,9 @@ You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundame
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
+
+### Sentimen Market
+
 ### Reaksi Market
 
 * Hasil dari reaksi market terhadap laporan atau news yang ada bisa saja tidak sesuai dengan ekspektasi. Karena data dan reaksi adalah dua hal yang berbeda
@@ -262,6 +265,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 * Konsensus terbagi menjadi 3 jenis:
 
 1. "Sesuai ekspektasi": reaksi market
+2. "Lebih baik dari ekspektasi": data yang dirilis lebih baik dari prediksi konsensus
+3. "Lebih buruk dari ekspektasi": data yang dirilis lebih buruk dari prediksi konsensus
+
+Oleh karena itu, mainkan peran lebih seperti IFELSE game.
+
 
 
 
