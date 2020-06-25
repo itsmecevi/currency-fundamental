@@ -152,7 +152,8 @@ Hal tersebut berlaku tidak hanya di negara USA, tetapi juga berlaku di negara-ne
 Pasar properti adalah pasar yang sensitif terhadap perekonomian. Semakin pasar properti ini laris manis, maka perekonomian negara diindikasikan sedang bagus. Ada empat data utama dalam menilai pasar properti ini, studi kasus negara USA.
 
 A. Housing starts (Jumlah rumah): catatan rumah atau konstruksi baru yang dibangun.
-Housing (Perumahan) ↑ => Profit ↑ => Inflation (Inflasi)↑ =>Interest rates (Tingkat Suku Bunga)↑ => USD ↑
+                                
+      Housing (Perumahan) ↑ => Profit ↑ => Inflation (Inflasi)↑ =>Interest rates (Tingkat Suku Bunga)↑ => USD ↑
 
 B. Building Permits (Ijin Bangunan): jumlah perizinan baru untuk pembangunan konstruksi yang akan datang.
 Permits ↑ => Profit ↑ => Inflation (Inflasi) ↑=> Interest rates (Tingkat Suku Bunga)↑ => USD ↑
