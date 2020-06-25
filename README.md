@@ -149,6 +149,20 @@ Hal tersebut berlaku tidak hanya di negara USA, tetapi juga berlaku di negara-ne
 
 ### 3. Pasar Properti
 
+Pasar properti adalah pasar yang sensitif terhadap perekonomian. Semakin pasar properti ini laris manis, maka perekonomian negara diindikasikan sedang bagus. Ada empat data utama dalam menilai pasar properti ini, studi kasus negara USA.
+
+A. Housing starts (Jumlah rumah): catatan rumah atau konstruksi baru yang dibangun.
+Housing (Perumahan) ↑ => Profit ↑ => Inflation (Inflasi)↑ =>Interest rates (Tingkat Suku Bunga)↑ => USD ↑
+
+B. Building Permits (Ijin Bangunan): jumlah perizinan baru untuk pembangunan konstruksi yang akan datang.
+Permits ↑ => Profit ↑ => Inflation (Inflasi) ↑=> Interest rates (Tingkat Suku Bunga)↑ => USD ↑
+
+C. Existing Housing Sales (Penjualan Rumah Bekas): jumlah penjualan rumah bekas dan atau lama dalam satuan waktu, biasanya dalam rentang waktu per bulan.
+Existing Home Sales ↑ => inflasi ↑ => Interest rates ↑ => USD ↑
+
+D. New Home Sales (Penjualan Rumah Baru):
+Home Sales ↑ => Inflasi ↑ => Interest rates ↑ => USD ↑
+
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
