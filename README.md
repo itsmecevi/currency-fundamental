@@ -173,11 +173,30 @@ Pasar tenaga kerja mempunyai tiga indiktor utama, yaitu
 
 A. Tingkat Pengangguran (Unemployment Rate) : biasanya meningkat 1–3 bulan sebelum “economic slowdown”. Didapat dari survei 60.000 rumah tangga
 
-      Unemployment ↓ => Income ↑
-      Spending ↑ => Inflasi ↑
-      Interest rates ↑ => USD ↑
-      
+      Unemployment (tingkat pengangguran) ↓ => Income ↑
+      Spending (pengeluaran) ↑ => Inflasi ↑
+      Interest rates (tingkat suku bunga) ↑ => USD ↑
 
+B. Lowongan Pekerjaan (Non Farm Payrolls): jumlah lowongan kerja yang tersedia diluar industri pertanian. Didapat dari survey 40.000 perusahaan & badan pemerintahan.
+        
+      NFP ↑ => Income ↑ => Spending ↑
+      Inflation (Inflasi) ↑=>Interest rates (Tingkat Suku Bunga)↑=> USD ↑
+      
+      
+C. Klaim Mingguan (Weekly Claims) : pengukuran tingkat “unemployment” atau tingkat pengangguran yang diklaim setiap minggunya. 
+
+      Klaim > 400rb => ekonomi melemah
+      Klaim < 400rb => ekonomi menguat
+      
+ 
+### 5. Nilai Barang dan Jasa yang diproduksi
+      
+Indikator nilai barang dan jasa yang diproduksi oleh suatu negara. Beberapa indikator yang merepresentasikan hal tersebut adalah sebagai berikut:
+      
+      
+      
+      
+      
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
