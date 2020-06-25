@@ -156,13 +156,28 @@ A. Housing starts (Jumlah rumah): catatan rumah atau konstruksi baru yang dibang
       Housing (Perumahan) ↑ => Profit ↑ => Inflation (Inflasi)↑ =>Interest rates (Tingkat Suku Bunga)↑ => USD ↑
 
 B. Building Permits (Ijin Bangunan): jumlah perizinan baru untuk pembangunan konstruksi yang akan datang.
-Permits ↑ => Profit ↑ => Inflation (Inflasi) ↑=> Interest rates (Tingkat Suku Bunga)↑ => USD ↑
+
+      Permits ↑ => Profit ↑ => Inflation (Inflasi) ↑=> Interest rates (Tingkat Suku Bunga)↑ => USD ↑
 
 C. Existing Housing Sales (Penjualan Rumah Bekas): jumlah penjualan rumah bekas dan atau lama dalam satuan waktu, biasanya dalam rentang waktu per bulan.
-Existing Home Sales ↑ => inflasi ↑ => Interest rates ↑ => USD ↑
+
+      Existing Home Sales ↑ => inflasi ↑ => Interest rates ↑ => USD ↑
 
 D. New Home Sales (Penjualan Rumah Baru):
-Home Sales ↑ => Inflasi ↑ => Interest rates ↑ => USD ↑
+
+      Home Sales ↑ => Inflasi ↑ => Interest rates ↑ => USD ↑
+      
+### 4. Pasar Tenaga Kerja
+
+Pasar tenaga kerja mempunyai tiga indiktor utama, yaitu
+
+A. Tingkat Pengangguran (Unemployment Rate) : biasanya meningkat 1–3 bulan sebelum “economic slowdown”. Didapat dari survei 60.000 rumah tangga
+
+      Unemployment ↓ => Income ↑
+      Spending ↑ => Inflasi ↑
+      Interest rates ↑ => USD ↑
+      
+
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
