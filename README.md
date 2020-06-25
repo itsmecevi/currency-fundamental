@@ -107,7 +107,7 @@
 
 _______
 
-### 1. Inflasi dan Harga
+#### 1. Inflasi dan Harga
 
 Definisi inflasi adalalah penurunan nilai mata uang. Kita bisa merasakan jika harga sebuah pensil jaman kita kecil dengan harga pensil sekarang sangat jauh berbeda.
 
@@ -128,7 +128,7 @@ Ada banyak cara untuk mengukur inflasi , dua diantaranya yang paling sering digu
       CPI ↑ =>Interest rates (Tingkat Suku Bunga)↑ => USD ↑ [Short-run (jangka pendek)]
       CPI ↑ => Interest rates (Tingkat Suku Bunga)↑ => USD ↓ [Long-run (jangka panjang)]
          
-### 2. Neraca Perdagangan
+#### 2. Neraca Perdagangan
 
 Menjelaskan bagaimana situasi perdagangan suatu negara dengan negara lainnya. Secara sederhana, neraca perdagangan adalah selisih nilai ekspor dan impor suatu negara dalam rentang waktu tertentu, biasanya per bulan atau per quartal.
 
@@ -147,7 +147,7 @@ Efek dari Surplus dan atau Defisit dari neraca perdagangan misalnya USA adalah b
 
 Hal tersebut berlaku tidak hanya di negara USA, tetapi juga berlaku di negara-negara lain dan mata uangnya.
 
-### 3. Pasar Properti
+#### 3. Pasar Properti
 
 Pasar properti adalah pasar yang sensitif terhadap perekonomian. Semakin pasar properti ini laris manis, maka perekonomian negara diindikasikan sedang bagus. Ada empat data utama dalam menilai pasar properti ini, studi kasus negara USA.
 
@@ -167,7 +167,7 @@ D. New Home Sales (Penjualan Rumah Baru):
 
       Home Sales ↑ => Inflasi ↑ => Interest rates ↑ => USD ↑
       
-### 4. Pasar Tenaga Kerja
+#### 4. Pasar Tenaga Kerja
 
 Pasar tenaga kerja mempunyai tiga indiktor utama, yaitu
 
@@ -189,7 +189,7 @@ C. Klaim Mingguan (Weekly Claims) : pengukuran tingkat “unemployment” atau t
       Klaim < 400rb => ekonomi menguat
       
  
-### 5. Nilai Barang dan Jasa 
+#### 5. Nilai Barang dan Jasa 
       
 Indikator nilai barang dan jasa yang diproduksi oleh suatu negara. Beberapa indikator yang merepresentasikan hal tersebut adalah sebagai berikut:
       
@@ -224,6 +224,29 @@ F. ISM Non Manufacturing : laporan bulanan pertama keadaan ekonomi pada sektor j
 G. CHICAGO PMI ( Purchasing Managers’ Index) : pengukuran aktifitas bisnis di daerah Midwest yang merupakan pusat industri Amerika Serikat.
 
       PMI ↑ => USD ↑
+      
+      
+      
+#### 6. Aktivitas Belanja Konsumen 
+
+Sentimen konsumen dan keadaan aktivitas belanja.
+
+A. Penjualan Retail (Retail Sales) : hasil survei dari 13.000 retail toko. Retail sales penting karena mencakup 70% aktivitas ekonomi
+
+      (Penjualan Retail) Retail Sales ↑ => Inflasi ↑
+      (Tingkat Suku Bunga) Interest rates ↑ => USD ↑
+      
+B. Kepercayaan Konsumen (Consumer Confidende) : ukuran kepercayaan konsumen atas perubahan di pasar tenaga kerja, ekonomi & tingkat belanja.
+
+      (Kepercayaan) Confidence ↓ => Inflasi ↓
+      (Tingkat Suku Bunga) Interest rates ↓ => USD ↓
+      
+C. Sentimen Konsumen Survei Univ. Michigan (Univ. of Michigan Consumer Sentiment) : ukuran sikap konsumen atas perubahan iklim bisnis, personal finance & tingkat belanja.
+      
+      Sentiment ↑ => Ekonomi ↑ => USD ↑
+      
+Faktor-faktor di atas faktor pendekatan dan atau bagian dari faktor penggerak harga, yang sesungguhnya pergerakan harga karena hal apa, kita tidak pernah bisa tahu sepenuhnya. Yang jelas, hukum supply dan demand sangat berlaku di dalam pasar derivatif...
+      
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
