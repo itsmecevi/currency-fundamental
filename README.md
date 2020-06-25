@@ -189,14 +189,26 @@ C. Klaim Mingguan (Weekly Claims) : pengukuran tingkat “unemployment” atau t
       Klaim < 400rb => ekonomi menguat
       
  
-### 5. Nilai Barang dan Jasa yang diproduksi
+### 5. Nilai Barang dan Jasa 
       
 Indikator nilai barang dan jasa yang diproduksi oleh suatu negara. Beberapa indikator yang merepresentasikan hal tersebut adalah sebagai berikut:
       
+A. Produk Domestik Bruto (Gross Domestic Product (GDP)) : ukuran jumlah barang dan jasa yang diproduksi dalam satuan waktu tertentu, biasanya per tahun atau quartal. Terdapat tiga buah laporan dalam pengukuran GDP, Prelimanary, Advanced, dan Final. Pertumbuhan ekonomi 3–3.5% per tahun dianggap paling ideal.
       
+      GDP ↑ => Inflation ↑ => Interest rates (tingkat suku bunga) ↑ => USD ↑
       
-      
-      
+B. Indeks Produk Domestik Brutto (GDP Price Indexs ) : ukuran tingkat inflasi. Mengukur harga barang dan jasa yang di exsport.
+
+      Inflation ↑ => Interests (tingkat suku bunga) ↑ =>USD ↑
+
+C. Order Barang Tahan Lama (Durable Goods Order) : ukuran tingkat order untuk barang tahan lama dan atau mewah (berumur lebih dari 3 tahun). Hasil survei 3500 manufaktur dan memberikan gambaran perekonomian di masa yang akan datang.
+
+      Order Barang Tahan Lama (Durable) ↑ => economy ↑ => USD ↑
+      Ketika konsumen mendapati keadaan ekonomi tidak baik, maka konsumen akan mengurangi konsumen barang tahan lama
+
+D. Produksi Industri (Industrial Production) : ukuran produksi dari industri manufacturing.
+
+      Produksi Industri (Industrial production) ↑ => Ekonomi ↑ => USD ↑
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
