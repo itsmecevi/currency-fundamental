@@ -82,14 +82,14 @@
 * Sumber berita finansial:
    * i.	Reuters
    * ii.	The Wall Street Journal
-   * iii.	Bloomberg
+   * iii. Bloomberg
    * iv.	MarketWatch.com
-   * v.	CNBC
+   * v. CNBC
    * vi.	Bloomberg TV
-   * vii.	Fox Business
-   * viii.	MSNBC
+   * vii. Fox Business
+   * viii. MSNBC
    * ix.	CNN
-   * Kofyin.com (sumber berita-berita dari berbagai sumber terpercaya, alternatif stasiun bloomberg)
+   * x. Kofyin.com (sumber berita-berita dari berbagai sumber terpercaya, alternatif stasiun bloomberg)
 
 ______
 
@@ -255,10 +255,14 @@ You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundame
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-### Market Reaction
+### Reaksi Market
 
 * Hasil dari reaksi market terhadap laporan atau news yang ada bisa saja tidak sesuai dengan ekspektasi. Karena data dan reaksi adalah dua hal yang berbeda
-* Reaksi dari market disebut dengan konsensus
+* Reaksi dari market disebut dengan konsensus. Konsensus adalah persetujuan dari event atau data-data ekonomi juga prediksi berita-berita fundamental dari sebuah bank, institusi finansial, dan entitas terkait. Artinya reaksi investor tidak sama, tapi hampir sepakat jika suatu data dikeluarkan, maka akan jadi sebuah persetujuan bersama bagaimana harus bereaksi
+* Konsensus terbagi menjadi 3 jenis:
+
+1. "Sesuai ekspektasi": reaksi market
+
 
 
 ### Markdown
