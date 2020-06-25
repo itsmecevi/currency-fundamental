@@ -93,8 +93,9 @@
 
 ______
 
+* Trading News:
 
-## Kalender Ekonomi:
+## Kalender Ekonomi
 
 * Kalender ekonomi adalah sebuah jadwal untuk trader mengetahui berita fundamental yang akan muncul yang mungkin akan mempengaruhi pergerakan pasar finansial dan tentunya saja akan sangat berpengaruh ke analisa fundamental
 * Dua hal inti dalam kalender ekonomi adalah kalender ekonomi itu sendiri, dan efek terhadap mata uang yang mana, bisa dipelajari di sini: https://www.forexfactory.com/calendar
