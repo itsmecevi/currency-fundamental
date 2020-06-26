@@ -371,6 +371,7 @@ Oleh karena itu, mainkan peran lebih seperti IFELSE game.
 * Hubungan saham dengan komoditi
 * Hubungan surat hutang dengan saham
 * surat hutang dengan komoditi
+* Bahasan lebih lanjut, silahkan ke link berikut: itsmecevi.github.io/intermarket-trading (soon)
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
