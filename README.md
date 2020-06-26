@@ -341,11 +341,17 @@ Oleh karena itu, mainkan peran lebih seperti IFELSE game.
  * Perhitungan normal USDX adalah di angka 100.000
  * USDX>10.000-> USDX menguat
  * USDX<10.000-> USDX melemah
+ ![f4](https://user-images.githubusercontent.com/27078712/85839517-368ef400-b7c5-11ea-8087-e7de62a14fbc.PNG)
  * Trading dengan USDX:
  
    * USD/XXXX ↑ -> ↑ USDX
    * XXX/USD ↑ -> USDX ↓
-  
+   
+ * The Dollar Smile Theory: 3 skenario kecenderungan utama USD
+ 
+   * Skenario 1: Saat kondisi panik dolar dihindari-> Safe-Havens seperti emas dan yen
+   * Skenario 2: Dolar menurun tajam-> suku bunga merendah-> Sell dolar
+   * Skenario 3: Pertumbuhan ekonomi membaik-< dolar menguat
  
 
 
