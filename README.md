@@ -371,6 +371,7 @@ Oleh karena itu, mainkan peran lebih seperti IFELSE game.
 * Hubungan saham dengan komoditi
 * Hubungan surat hutang dengan saham
 * surat hutang dengan komoditi
+
 ![f6](https://user-images.githubusercontent.com/27078712/85844369-d4d28800-b7cc-11ea-9b31-7bd9095bf8a7.PNG)
 ![f7](https://user-images.githubusercontent.com/27078712/85844380-d8fea580-b7cc-11ea-8c2b-ec8d95b819f2.PNG)
 
