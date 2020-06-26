@@ -321,6 +321,11 @@ Oleh karena itu, mainkan peran lebih seperti IFELSE game.
 * Beli mata uang dengan tingkat suku bunga yang tinggi, dan jual mata uang dengan tingkat suku bunga yang rendah. 
 * Pastikan pasangan mata uang terebut dalam tren naik
 * carry trading hanya untuk waktu yang relatif lama, bukan intraday
+* Data bisa dilihat di link berikut: https://data.worldbank.org/indicator/FR.INR.RINR
+* Jangan lupa tentukan resiko maksimum yang bisa diterima
+
+
+### Indeks Dollar USA
 
 
 
