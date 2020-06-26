@@ -356,10 +356,21 @@ Oleh karena itu, mainkan peran lebih seperti IFELSE game.
 
 ### Hubungan antar Market
 
-* Mempelajari tentang hubungan pasar mata uang dengan komoditi (emas, perak, minyak mentah), futures, surat hutang, reksadana, saham, dll
-* 
-*
-*
+* Mempelajari tentang hubungan antar pasar 
+* Terdapat 5 pembagian umum di dalam pasar finansial:
+   * Pasar mata uang
+   * Pasar saham
+   * Pasar surat hutang
+   * Pasar komoditi
+   * Pasar Crypto (relatif baru)
+* Hubungan antar mata uang
+* Hubungan mata uang dengan saham
+* Hubungan mata uang dengan surat hutang
+* Hubungan mata uang dengan komoditi
+* Hubungan saham dengan surat hutang
+* Hubungan saham dengan komoditi
+* Hubungan surat hutang dengan saham
+* surat hutang dengan komoditi
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
