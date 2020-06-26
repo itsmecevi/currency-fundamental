@@ -341,7 +341,7 @@ Oleh karena itu, mainkan peran lebih seperti IFELSE game.
  * Perhitungan normal USDX adalah di angka 100.000
  * USDX>10.000-> USDX menguat
  * USDX<10.000-> USDX melemah
- ![f4](https://user-images.githubusercontent.com/27078712/85839517-368ef400-b7c5-11ea-8087-e7de62a14fbc.PNG)
+![f5](https://user-images.githubusercontent.com/27078712/85840547-d8631080-b7c6-11ea-846b-85831cf05929.PNG)
  * Trading dengan USDX:
  
    * USD/XXXX ↑ -> ↑ USDX
@@ -354,6 +354,12 @@ Oleh karena itu, mainkan peran lebih seperti IFELSE game.
    * Skenario 3: Pertumbuhan ekonomi membaik-< dolar menguat
  
 
+### Hubungan antar Market
+
+* Mempelajari tentang hubungan pasar mata uang dengan komoditi (emas, perak, minyak mentah), futures, surat hutang, reksadana, saham, dll
+* 
+*
+*
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
