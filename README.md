@@ -281,7 +281,7 @@ menunggu 20-30 menit sebelum adanya news fundamental yang dirilis. Titik terenda
 -Sangat penting untuk memahami setelah dan sebelum news dirilis, faktor apa diluar news yang mungkin bisa berpengaruh terhadap pergerakan harga ke arah tertentu
 
  
-
+* Konsep News Trading yang dibicarakan di sesi ini hanya sedikit gambaran dari news trading yang lebih lengkap lagi. Untuk itu silahkan baca News Trading di link berikut: itsmecevi.github.io/news-trading
 
 
 ### Sentimen Market
