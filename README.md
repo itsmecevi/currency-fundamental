@@ -91,6 +91,17 @@
    * ix.	CNN
    * x. Kofyin.com (sumber berita-berita dari berbagai sumber terpercaya, alternatif stasiun bloomberg)
 
+* Karena news berita yang beredar sifatnya sewaktu-waktu dan sangat subjektif, maka ada news lain yang bisa dijadikan acuan. News tersebut ada di dalam kalender ekonomi. Kalender Ekonomi. Kalender ekonomi adalah sebuah jadwal untuk trader mengetahui berita fundamental yang akan muncul yang mungkin akan mempengaruhi pergerakan pasar finansial dan tentunya saja akan sangat berpengaruh ke analisa fundamental
+   * Dua hal inti dalam kalender ekonomi adalah kalender ekonomi itu sendiri, dan efek terhadap mata uang yang mana, bisa dipelajari di sini: https://www.forexfactory.com/calendar
+   * Apa saja data ekonomi dan berita yang bisa berpengaruh terhadap pergerakan pasar?
+
+1. Inflasi dan Harga (Inflation and Price)
+2. Neraca Perdagangan (Foreign Trades)
+3. Pasar Properti (Housing and General Construction)
+4. Pasar Tenaga Kerja (Employment)
+5. Nilai Barang dan Jasa yang diproduksi (National Output)
+6. Aktivitas Belanja Konsumen (Consumer Activities)
+
 ______
 
 * Trading News:
@@ -99,6 +110,15 @@ ______
 2. Kenapa trading dengan news?: karena news merupakan salah satu faktor penggeran signifikan dari pasar karena reaksi trader itu sendiri. Harap hati-hat, karena di market yang sangat volatil, maka broker akan membesarkan spread (selisih harga jual dan beli). Terkadang juga adanya Slippage atau perbedaan harga order trader dengan harga broker. Hal itu terjadi karena pasar atau market sedang sangat tidak stabil karena adanya berita atau news fundamental
 3. News seperti apa yang menggerakan pasar?: lihat gambar di bawah ini.
 ![f4](https://user-images.githubusercontent.com/27078712/85821621-3c73dd80-b7a3-11ea-945d-62e58a1df078.PNG)
+
+Karena news bisa menyebabkan perubahan besar di pasarm maka sangat penting hanya ikut di pasar yang paling likuid.
+Pasar tersebut adalah pasar Pair Major (EUR/USD, GBP/USD, USD/JPY, USD/CHF, USD/CAD, AUD/USD)
+
+4. Ada 2 pendekatan trading dengan news, yaitu pendekatan bias langsung dan pendekatan bias tidak langsung:
+4A: Pendekatan bias langsung: langsung membuat keputusan bahwa market atau pasar akan cenderung ke arah tertentu. Biasanya kita harus melihat dulu konsensus (kesepakatan) para ahli sebelum news atau data tersebut dirilis. Baru setelah itu kita menetapkan konsensus. Hasil dari trading bias langsung ini bisa berupa tepat, lebih, atau kurang dari konsensus yang ada (prediksi bisa hampir sama, kurang, atau lebih). Prediksi lebih baik/lebih buruk dari awal-> pergerakan akan sangat besar
+4b: Pendekatan bias tidak langsung: yaitu pendekatan yang tidak hanya mengambil keputusan kecenderungan arah tertentu berdasarkan news sampai terlihat sendiri pergerakan yang ada setelah news dirilis. Dan bisa saja market tidak sesuai news karena ada faktor lain yang berpengaruh. Pendekatan ini lebih mengedepankan ke teknikal analisis dan money management yang baik
+
+5. Menunggu market menentukan arahnya sendiri: pendekatan ini merupakan pendekatan breakout (melewati angka tertentu) dan reversal (berbalik arah). Caranya adalah dengan menunggu 20-30 menit sebelum adanya news fundamental yang dirilis. Titik terendah dan titik tertinggi akan menjadi acuan apakah buy atau sell setelah adanya rilis data tersebut.
 
 
 
