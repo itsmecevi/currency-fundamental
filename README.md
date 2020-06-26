@@ -253,7 +253,9 @@ ______
 * Trading News:
 
 1. Berita fundamental yang penting: news yang penting membuat pergerakan harga signifikan, karena reaksi dari trader (retail, big player, dan hedger non-commercial) yang membaca news tersebut
+
 2. Kenapa trading dengan news?: karena news merupakan salah satu faktor penggeran signifikan dari pasar karena reaksi trader itu sendiri. Harap hati-hat, karena di market yang sangat volatil, maka broker akan membesarkan spread (selisih harga jual dan beli). Terkadang juga adanya Slippage atau perbedaan harga order trader dengan harga broker. Hal itu terjadi karena pasar atau market sedang sangat tidak stabil karena adanya berita atau news fundamental
+
 3. News seperti apa yang menggerakan pasar?: lihat gambar di bawah ini. Karena news bisa menyebabkan perubahan besar di pasarm maka sangat penting hanya ikut di pasar yang paling likuid.
 Pasar tersebut adalah pasar Pair Major (EUR/USD, GBP/USD, USD/JPY, USD/CHF, USD/CAD, AUD/USD)
 ![f4](https://user-images.githubusercontent.com/27078712/85821621-3c73dd80-b7a3-11ea-945d-62e58a1df078.PNG)
@@ -271,8 +273,11 @@ menunggu 20-30 menit sebelum adanya news fundamental yang dirilis. Titik terenda
 * Rangkuman News Trading
 
 -Pendekatan bias langsung-> kecenderungan market akan bergerak ke arah tertentu
--Pendekatan bias tidak langsung-> melihat langsung pergerakan setelah data dirilisi
+
+-Pendekatan bias tidak langsung-> melihat langsung pergerakan setelah data dirilis
+
 -Setting pendekatan bias tidak langsung-> straddle trading
+
 -Sangat penting untuk memahami setelah dan sebelum news dirilis, faktor apa diluar news yang mungkin bisa berpengaruh terhadap pergerakan harga ke arah tertentu
 
  
