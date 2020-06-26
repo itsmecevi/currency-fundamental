@@ -95,6 +95,15 @@ ______
 
 * Trading News:
 
+1. Berita fundamental yang penting: news yang penting membuat pergerakan harga signifikan, karena reaksi dari trader (retail, big player, dan hedger non-commercial) yang membaca news tersebut
+2. Kenapa trading dengan news?: karena news merupakan salah satu faktor penggeran signifikan dari pasar karena reaksi trader itu sendiri. Harap hati-hat, karena di market yang sangat volatil, maka broker akan membesarkan spread (selisih harga jual dan beli). Terkadang juga adanya Slippage atau perbedaan harga order trader dengan harga broker. Hal itu terjadi karena pasar atau market sedang sangat tidak stabil karena adanya berita atau news fundamental
+3. News seperti apa yang menggerakan pasar?: lihat gambar di bawah ini.
+![f4](https://user-images.githubusercontent.com/27078712/85821621-3c73dd80-b7a3-11ea-945d-62e58a1df078.PNG)
+
+
+
+   * 
+
 ## Kalender Ekonomi
 
 * Kalender ekonomi adalah sebuah jadwal untuk trader mengetahui berita fundamental yang akan muncul yang mungkin akan mempengaruhi pergerakan pasar finansial dan tentunya saja akan sangat berpengaruh ke analisa fundamental
