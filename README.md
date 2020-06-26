@@ -262,9 +262,9 @@ Pasar tersebut adalah pasar Pair Major (EUR/USD, GBP/USD, USD/JPY, USD/CHF, USD/
 
 4. Ada 2 pendekatan trading dengan news, yaitu pendekatan bias langsung dan pendekatan bias tidak langsung:
 
--4A: Pendekatan bias langsung: langsung membuat keputusan bahwa market atau pasar akan cenderung ke arah tertentu. Biasanya kita harus melihat dulu konsensus (kesepakatan) para ahli sebelum news atau data tersebut dirilis. Baru setelah itu kita menetapkan konsensus. Hasil dari trading bias langsung ini bisa berupa tepat, lebih, atau kurang dari konsensus yang ada (prediksi bisa hampir sama, kurang, atau lebih). Prediksi lebih baik/lebih buruk dari awal-> pergerakan akan sangat besar
+      -4A: Pendekatan bias langsung: langsung membuat keputusan bahwa market atau pasar akan cenderung ke arah tertentu. Biasanya kita harus melihat dulu konsensus (kesepakatan) para ahli sebelum news atau data tersebut dirilis. Baru setelah itu kita menetapkan konsensus. Hasil dari trading bias langsung ini bisa berupa tepat, lebih, atau kurang dari konsensus yang ada (prediksi bisa hampir sama, kurang, atau lebih). Prediksi lebih baik/lebih buruk dari awal-> pergerakan akan sangat besar
 
--4b: Pendekatan bias tidak langsung: yaitu pendekatan yang tidak hanya mengambil keputusan kecenderungan arah tertentu berdasarkan news sampai terlihat sendiri pergerakan yang ada setelah news dirilis. Dan bisa saja market tidak sesuai news karena ada faktor lain yang berpengaruh. Pendekatan ini lebih mengedepankan ke teknikal analisis dan money management yang baik
+      -4b: Pendekatan bias tidak langsung: yaitu pendekatan yang tidak hanya mengambil keputusan kecenderungan arah tertentu berdasarkan news sampai terlihat sendiri pergerakan yang ada setelah news dirilis. Dan bisa saja market tidak sesuai news karena ada faktor lain yang berpengaruh. Pendekatan ini lebih mengedepankan ke teknikal analisis dan money management yang baik
 
 
 5. Menunggu market menentukan arahnya sendiri: pendekatan ini merupakan pendekatan breakout (melewati angka tertentu) dan reversal (berbalik arah). Caranya adalah dengan 
