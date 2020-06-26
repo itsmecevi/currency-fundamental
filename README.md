@@ -327,6 +327,26 @@ Oleh karena itu, mainkan peran lebih seperti IFELSE game.
 
 ### Indeks Dollar USA
 
+* Dollar Indeks (USDX, DXY, DX) adalah ukuran nilai dari mata uang dolar USA relatif ke mata uang dari negara lainnya
+* Ada 21 negara yang mata uangnya relatif kepada mata uang dolar amerika:
+   
+   * Euro (EUR)-> 16 negara
+   * Yen (JPY)-> Jepang
+   * Pound (GBP)-> Inggris
+   * Canadian dollar (CAD)-> dolar Kanada
+   * Krona (SEK)-> Swedia
+   * Franc (CHF)-> Swiss 
+ 
+ * USDX bisa dilihat di link berikut: https://www.marketwatch.com/investing/index/dxy
+ * Perhitungan normal USDX adalah di angka 100.000
+ * USDX>10.000-> USDX menguat
+ * USDX<10.000-> USDX melemah
+ * Trading dengan USDX:
+ 
+   * USD/XXXX ↑ -> ↑ USDX
+   * XXX/USD ↑ -> USDX ↓
+  
+ 
 
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/currency-fundamental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
