@@ -289,8 +289,8 @@ menunggu 20-30 menit sebelum adanya news fundamental yang dirilis. Titik terenda
 * Sentimen market adalah posisi trader apakah buy atau sell di dalam suatu pasar tertentu
 * Ada beberapa sumber yang bisa dijadikan acuan dalam sentimen di market, diantaranya adalah
 
-      * https://www.dailyfx.com/sentiment
-      * https://www.dukascopy.com/swiss/english/marketwatch/sentiment/
+     * https://www.dailyfx.com/sentiment
+     * https://www.dukascopy.com/swiss/english/marketwatch/sentiment/
       
 * Ada beberapa indikator juga yang bisa mewakili sentimen market ini dengan lebih jelas,yaitu
       * Speculative Sentiment Index (SSI)
