@@ -315,7 +315,12 @@ menunggu 20-30 menit sebelum adanya news fundamental yang dirilis. Titik terenda
 Oleh karena itu, mainkan peran lebih seperti IFELSE game.
 
 
+### Carry Trading
 
+* Trading dengan memanfaatkan mata uang dengan perbedaan suku bunga yang besar
+* Beli mata uang dengan tingkat suku bunga yang tinggi, dan jual mata uang dengan tingkat suku bunga yang rendah. 
+* Pastikan pasangan mata uang terebut dalam tren naik
+* carry trading hanya untuk waktu yang relatif lama, bukan intraday
 
 
 
