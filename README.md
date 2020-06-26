@@ -268,7 +268,7 @@ Pasar tersebut adalah pasar Pair Major (EUR/USD, GBP/USD, USD/JPY, USD/CHF, USD/
 
 
 5. Menunggu market menentukan arahnya sendiri: pendekatan ini merupakan pendekatan breakout (melewati angka tertentu) dan reversal (berbalik arah). Caranya adalah dengan 
-menunggu 20-30 menit sebelum adanya news fundamental yang dirilis. Titik terendah dan titik tertinggi akan menjadi acuan apakah buy atau sell setelah adanya rilis data tersebut.
+menunggu 20-30 menit sebelum adanya news fundamental yang dirilis. Titik terendah dan titik tertinggi akan menjadi acuan apakah buy atau sell setelah adanya rilis data tersebut. Teknik tersebut disebut straddle trading
 
 * Rangkuman News Trading
 
