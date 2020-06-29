@@ -125,7 +125,7 @@ Ada banyak cara untuk mengukur inflasi , dua diantaranya yang paling sering digu
       CPI : Mengukur tingkat perubahan harga barang dan jasa
       PPI : Perubahan harga yang dibayar oleh produsen dalam berbagai tahapan produksi. Ukuran PPI tidak termasuk industri atau sektor jasa di dalamnya.
       CPI ↑ =>Interest rates (Tingkat Suku Bunga)↑ => USD ↑ [Short-run (jangka pendek)]
-      CPI ↑ => Interest rates (Tingkat Suku Bunga)↑ => USD ↓ [Long-run (jangka panjang)]
+      CPI ↓ => Interest rates (Tingkat Suku Bunga)↑ => USD ↓ [Long-run (jangka panjang)]
          
 #### 2. Neraca Perdagangan
 
